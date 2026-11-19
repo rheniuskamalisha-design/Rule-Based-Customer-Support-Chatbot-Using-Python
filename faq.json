@@ -1,0 +1,59 @@
+{
+    "business_hours": {
+        "keywords": [
+            "business hours",
+            "working hours",
+            "opening time",
+            "closing time"
+        ],
+        "response": "Our business hours are Monday to Saturday, 9:00 AM to 6:00 PM. Sunday is a holiday."
+    },
+    "product_price": {
+        "keywords": [
+            "price",
+            "cost",
+            "how much"
+        ],
+        "response": "Our product price starts from Rs. 999. Please contact our sales team for more details."
+    },
+    "product_features": {
+        "keywords": [
+            "features",
+            "specifications",
+            "details"
+        ],
+        "response": "Our product includes high-quality materials, modern design, reliable performance and user-friendly features."
+    },
+    "warranty": {
+        "keywords": [
+            "warranty",
+            "guarantee"
+        ],
+        "response": "Our products come with a one-year warranty against manufacturing defects."
+    },
+    "delivery": {
+        "keywords": [
+            "delivery",
+            "shipping",
+            "shipping time"
+        ],
+        "response": "Delivery usually takes 3 to 5 business days depending on your location."
+    },
+    "order_status": {
+        "keywords": [
+            "order status",
+            "track order",
+            "my order"
+        ],
+        "response": "You can track your order using your order ID on our website."
+    },
+    "contact": {
+        "keywords": [
+            "contact",
+            "phone number",
+            "email",
+            "support"
+        ],
+        "response": "You can contact our customer support team at support@example.com."
+    }
+}
